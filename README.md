@@ -1,55 +1,68 @@
-# Data Scientist
+# Infectious Disease Epidemiologist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: SAS, STATA, Tableau, ArcGIS, GeoDA, EpiInfo, WinPEPI, SEET Stat, RStudio
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- Ph.D., Pandemic Response Planning | Institute of Global Pandemic Planning at University of Warwick (_Sept 2024_ to _Sept 2028_)								       		
+- MPH., Epidemiology	| The George Washington University (_Fulbright Scholar_) (_May 2023_)	 			        		
+- B.Sc. (Hons), Human Nutrition and Dietetics | PMAS- University of Arid Agriculture (_June 2020_)
+- Exchange Semester, Human Nutriton | University of Central Missouri (_Fall 2018_)
+  
+  
+## Research Experience
+**Research Analyst @ Research and Development Solutions (_June 2023 - August 2024_)**
+*Bill and Melinda Gates Foundation: Global Burden of Disease*
+- Utilized spatial mapping techniques to identify clusters of operational zero-dose and incomplete measles immunization in Pakistan, exploring associations with migration patterns.
+  ![Local Morans' Index Analysis of Operationally Zero-dose districts](/assets/img/ZD2.png)
+- Assessed the incidence of 'zero-dose' children aged 12-23 months in Pakistan, incorporating maternal healthcare access during the prenatal period, and social determinants of health identifying clustering patterns to pinpoint hot spots for equity analysis.
+  ![Spatial Analysis of True Zero-Dose Relative to Vulnerability Indicators](/assets/img/ZD1.png)
+- Reviewed evaluation toolkit including quantitative tools on Third-party evaluation of health facility assessment for immunization services run by the Aga Khan University and BMGF.
+- Refined the analytical framework to examine the impact of antenatal care (ANC) and family planning (FP) indicators on infant, neonatal, and perinatal mortality rates in Pakistan, with enhancements to the research write-up.
+- Analyzed 15-year longitudinal patient visitation data from National surveys to gauge quantum of healthcare facility utilization at provincial level.
+  ![Distribution of Foot Traffic in Sindh ](/assets/img/Foottraffic.png)
+  ![Distribution of Foot Traffic in Sindh ](/assets/img/Foottraffic2.png)
+- Evaluated the burden of missed opportunities for vaccination (MOV) for Pentavalent and Measles vaccines among children under five in Pakistan, utilizing data from the Pakistan Social and Living Standards Measurement Survey (PSLM) 2019-2020.
+  ![District level patterns of Missed Opportunities of Pentavalent and Measles Vaccine](/assets/img/MOV.png)
+  
+  *Family Planning and Reproductive Health* 
+- Prepared a concept note to identify unaddressed areas within Pakistan’s contraceptive prevalence rate (CPR) landscape that could be served by private stakeholders, specifically DKT.
+- Determined the utilization of social franchising specifically DKT and MSS in Family Planning Services in Pakistan, comparing the periods before and during the COVID19 pandemic.
+  [Publication](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11140052/)
 
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Research Fellow @ Walter Reed Army Research Institute (_Feb 2023 - May 2024_)**
+- Planning and implementation of research methodologies to describe the prevalence of asymptomatic parasitemia among the participants of the African Cohort Study (AFRICOS).
+- Developing research approaches to capture the hematological outcomes to address the burden of asymptomatic malaria in the AFRICOS population.
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Research Assistant @ DC Department of Health (_July 2022 - Feb 2023_)**
+- Conducted multi-variable regression analysis of JYNNEOS vaccination administration data among DC residents subgrouped by Mpox infection status to determine racial disproportion based on demographic and clinical variables.
+ [Publication](https://hsrc.himmelfarb.gwu.edu/gw_research_showcase/2023/SPH/13/)
+- Abstracted and reported Monkey Pox data from the interview database for visualization on the DC DOH public site on a rolling basis.
+- Collaborated with the CDC to assess HIV and Sexually transmitted infections among Monkey Pox patients based on clinical and demographic variables.
+[Publication]([https://pubmed.ncbi.nlm.nih.gov/33819236/](https://www.cdc.gov/mmwr/volumes/71/wr/pdfs/mm7136a1-H.pdf))
 
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+**Research Assistant @ Elizabeth Glaser Pediatric AIDS Foundation (_May 2022 - Nov 2022_)**
+- Consultation services to draft a U=U research plan to review clinical data beyond MER indicators to determine the impact of COVID-19 on access, coverage, utility, and outcome of pediatric HIV services.
+- Designed and supported data collection methodology to quantify anecdotal and clinical variables collected from EGPAF’s regional offices in sub-regions of the target countries.
+- Presented time-based trends on variables hypothesized to contribute to suppression of healthcare delivery before, during early COVID, and during the COVID recovery phase.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+**Research Assistant @ Antibiotic Resistance Action Laboratory (_May 2022 - June 2022_)**
+- Performed fungal culture isolation of clinical specimens to observe fungal resistance mechanisms among immuno-compromised individuals.
+- Analyzed anti-fungal susceptibility plates after running MIC test on isolated cultures of Aspergillus species.
+- Trained the wet lab team on conducting preliminary data cleaning and developing an analysis plan for the Fungal Pilot grant at ARAC to study resistance susceptibility posed by Aspergillus species in samples procured from California, USA.
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+**Research Assistant @ The Children Hospital (_March 2019 - April 2020)**
+- Corresponded qualitative and quantitative data collection on pediatric clinical research projects, all fundamentally focused on the nutritional status of children admitted in a tertiary care hospital.
+[Publication](https://pubmed.ncbi.nlm.nih.gov/33159776/) 
+- Oversaw analysis of data based on Nutritional risk scores and bone density tests.
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+**Research Assistant @ The Children Hospital (_Sept 2017 - October 2018_)**
+- Conducted research on determining risk factors associated with mortality in children admitted with complications of Measles in Pakistan.
+[Publication](https://pubmed.ncbi.nlm.nih.gov/33819236/)
 
-![Bike Study](/assets/img/bike_study.jpeg)
-
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
-
-## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
-
-- [Data Science Blog](https://medium.com/@shawhin)
+## Awards and Honors
+1. Student spotlight Epidemiology @ Milken Institute School of Public Health -GWU - May 2023.
+ ![Epidemiology department Spotlight](/assets/img/dchealth.png)
+2. Fulbright Masters Scholarship Award - Fall 2021.
+3. Global Undergraduate Exchange Program - Fall 2018
+4. Vice Chancellor’s Honorariums fromGhulam Ishaq Khan Institute of Engineering Sciences and Technology (GIKI), HITEC University, Institute of Space Technology (IST), National University of Science and Technology (NUST), Pakistan Institute of Engineering and Applied Sciences (PIEAS) and University of Gujrat.
